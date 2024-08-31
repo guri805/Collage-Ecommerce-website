@@ -1,0 +1,615 @@
+[{
+  "_id": {
+    "$oid": "66499e62f9d65004e8afe8e2"
+  },
+  "productName": "Boat cosmos 1",
+  "brandName": "Boat",
+  "category": "watches",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716104550/mernproduct/hw8nbnahivvesbxbic99.webp",
+    null
+  ],
+  "description": "Watch for Men Display Type: Analogue, Movement: Quartz, Dial Color: Black, Case & Band Material: Stainless steel Black Chain with Long Lasting Polish, Watch for Boys size (Case Diameter: 29MM, Case thickness: 8MM, Strap: 18MM)",
+  "price": 700,
+  "sellingPrice": 450,
+  "createdAt": {
+    "$date": "2024-05-19T06:38:26.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T07:43:48.638Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649aa26f9d65004e8afe96f"
+  },
+  "productName": "Designer Sofa Set With 5 Seater",
+  "brandName": "GKW Retails",
+  "category": "furniture",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716103684/mernproduct/dnnxxixcc5ox9burotkd.jpg"
+  ],
+  "description": "Wooden Designer Sofa Set, We are Using Full Heavy Material For All Product also high Fabric Quality In 3 Seater Sofa Set Designer and this Sofa set ..",
+  "price": 30000,
+  "sellingPrice": 27500,
+  "createdAt": {
+    "$date": "2024-05-19T07:28:38.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T07:28:38.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649aa8ef9d65004e8afe981"
+  },
+  "productName": "Black u shape sofa:velvet 5 seater sofa set",
+  "brandName": "GKW Retails",
+  "category": "furniture",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716103779/mernproduct/gauhmazepmwa3qcz7sxh.webp"
+  ],
+  "description": "This U Shape Sofa Set is a beautiful transitional, glam piece that can be used in different design settings. Founded atop a wooden frame, 5 Seater Sofa Set wrapped in velvet upholstery and firm foam. Its tight back and button-tufting provides a vintage flair, metal legs for a retro silhouette, while its cushion arms adds a stylish touch. The Pocket coil spring in the cushions creates just the right amount of support as you sit. This will make a truly wow-worthy addition to your abode. Whether you have a huge family or simply entertain regularly, it's the perfect pick for living rooms or dens that see a lot of people day in and day out.\nSeating Capacity: 5.\nCushion Construction: Foam.\nDesign: Stationary.\nOverall: 32'' H x 141'' W x 70.5'' D.",
+  "price": 139990,
+  "sellingPrice": 112500,
+  "createdAt": {
+    "$date": "2024-05-19T07:30:22.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T07:30:22.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649abf9f9d65004e8afe995"
+  },
+  "productName": "Modern Design Queen Size Bed For Bedroom with Storage",
+  "brandName": "sheeshamwallah",
+  "category": "furniture",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716104144/mernproduct/ceszal3gnqnhdlwire1z.webp",
+    null
+  ],
+  "description": "This Wood Bed Double Size is made up of solid teak wood and the ingenious design of Bed Queen Size with storage will refresh your interiors with its plush look and compliments any existing décor. This bed is upholstered in durable, anti-fade fabric that will keep it looking new for years to come! With soft cushioning, this bed is designed to be safe for kids.",
+  "price": 115493,
+  "sellingPrice": 94994,
+  "createdAt": {
+    "$date": "2024-05-19T07:36:25.749Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T07:36:25.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649ac4cf9d65004e8afe999"
+  },
+  "productName": "Sheeshamwallah Wooden King Size Bed with Box Storage for Bedroom, Grey Upholstered Cushioned Headboard, Solid Sheesham Wood, Walnut Finish, Mattress Size: 78 X 72",
+  "brandName": "sheeshamwallah",
+  "category": "furniture",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716104207/mernproduct/n7yg3ks4jxewbzawh2iv.jpg"
+  ],
+  "description": "sheeshamwallah Sheesham Wood King Size Bed With Storage, Wooden Double Bed Cot Bed with Box Storage & Grey Upholstered Cushioned Headboard for Bedroom, Rosewood, Walnut Finish, Mattress Thickness Size Upto 8 Inch\nPrimary Material & Durability : Sheesham Wood | Sheesham Wood Is Known For Its Durability And Sturdiness, Making It An Ideal Choice For A Bed Frame That Will Last For Years",
+  "price": 49990,
+  "sellingPrice": 31449,
+  "createdAt": {
+    "$date": "2024-05-19T07:37:48.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T07:37:48.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649ae33f9d65004e8afe9bd"
+  },
+  "productName": "boat storm 1",
+  "brandName": "Boat",
+  "category": "watches",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716104666/mernproduct/sigs6mb5r9fnqlujeyts.webp"
+  ],
+  "description": "Bluetooth Calling Smart Watch with 1.69\" (4.29 cm) HD display, Super-Responsive Dialpad, 150+ Cloud Faces\n\n",
+  "price": 4999,
+  "sellingPrice": 1499,
+  "createdAt": {
+    "$date": "2024-05-19T07:45:55.220Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T07:45:55.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649af08f9d65004e8afe9c1"
+  },
+  "productName": "Titan Smart Watch with 1.96 Inch AMOLED Display | 410 x 502 Pixel Resolution | AI Voice Assistant | Multiple Menu Styles",
+  "brandName": "Boat",
+  "category": "watches",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716104927/mernproduct/hs4sjdodchvuobdyvrv7.webp",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716104932/mernproduct/yh2aqvxebqqwsjtscczh.webp"
+  ],
+  "description": "Stay on the cutting edge of technology with the Titan Smart 3.0, boasting a stunning AMOLED display and a range of features. For an active day, pair it with a sleek black athletic ensemble, comfortable sneakers, and a black gym bag. Let this smartwatch be your ultimate companion for both workouts and daily activities.",
+  "price": 19990,
+  "sellingPrice": 8500,
+  "createdAt": {
+    "$date": "2024-05-19T07:49:28.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T07:49:28.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649affdf9d65004e8afe9c5"
+  },
+  "productName": "Samsung Galaxy Watch 5 LTE (44mm) Smart Watch",
+  "brandName": "samsung",
+  "category": "watches",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716105074/mernproduct/gw7eqwywniste10bvpsa.webp",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716105081/mernproduct/lpzeuz39feomies6gmaa.webp"
+  ],
+  "description": "Display Size:44 mm\nDisplay Type:AMOLED\nDial Shape:Circle\nSize:Free Size\nStrap Material:Rubber\nBattery Type:Lithium Ion\nBattery Life:Up to 40 Hours\nSensor:Bioelectrical Impedance Analysis Sensor, Optical Heart Rate Sensor, SPo2 Measurement, Accelerometer, Barometer, Gyro Sensor, Ambient Light Sensor, Compass\nWater Resistant:Yes\nCall Function:Yes",
+  "price": 39999,
+  "sellingPrice": 27999,
+  "createdAt": {
+    "$date": "2024-05-19T07:53:33.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T07:53:33.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649cab0f9d65004e8afe9ea"
+  },
+  "productName": "Apple iPhone 15 Pro Max (256 GB) - Black Titanium",
+  "brandName": "iphone",
+  "category": "mobiles",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716111989/mernproduct/rmvdrq3ecmj003gjcfrv.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716111996/mernproduct/ervxzlvxgdt3erxul4ql.jpg"
+  ],
+  "description": "FORGED IN TITANIUM — iPhone 15 Pro Max has a strong and light aerospace-grade titanium design with a textured matte-glass back. It also features a Ceramic Shield front that’s tougher than any smartphone glass. And it’s splash, water, and dust resistant.\nADVANCED DISPLAY — The 6.7” Super Retina XDR display with ProMotion ramps up refresh rates to 120Hz when you need exceptional graphics performance. Dynamic Island bubbles up alerts and Live Notifications. Plus, with Always-On display, your Lock Screen stays glanceable, so you don’t have to tap it to stay in the know.\nGAME-CHANGING A17 PRO CHIP — A Pro-class GPU makes mobile games feel so immersive, with rich environments and realistic characters. A17 Pro is also incredibly efficient and helps to deliver amazing all-day battery life.\nPOWERFUL PRO CAMERA SYSTEM — Get incredible framing flexibility with 7 pro lenses. Capture super high-resolution photos with more color and detail using the 48MP Main camera. And take sharper close-ups from farther away with the 5x Telephoto camera on iPhone 15 Pro Max",
+  "price": 159990,
+  "sellingPrice": 148900,
+  "createdAt": {
+    "$date": "2024-05-19T09:47:28.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T09:47:28.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649cb25f9d65004e8afe9ee"
+  },
+  "productName": "Apple iPhone 15 Pro (512 GB) - Natural Titanium",
+  "brandName": "iphone",
+  "category": "mobiles",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112130/mernproduct/oekyn8giv5t8rfktaayx.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112134/mernproduct/jevm6r8z6z9zq1yymfvb.jpg"
+  ],
+  "description": "FORGED IN TITANIUM — iPhone 15 Pro has a strong and light aerospace-grade titanium design with a textured matte-glass back. It also features a Ceramic Shield front that’s tougher than any smartphone glass. And it’s splash, water, and dust resistant.\nADVANCED DISPLAY — The 6.1” Super Retina XDR display with ProMotion ramps up refresh rates to 120Hz when you need exceptional graphics performance. Dynamic Island bubbles up alerts and Live Notifications. Plus, with Always-On display, your Lock Screen stays glanceable, so you don’t have to tap it to stay in the know.\nGAME-CHANGING A17 PRO CHIP — A Pro-class GPU makes mobile games feel so immersive, with rich environments and realistic characters. A17 Pro is also incredibly efficient and helps to deliver amazing all-day battery life.",
+  "price": 164900,
+  "sellingPrice": 158990,
+  "createdAt": {
+    "$date": "2024-05-19T09:49:25.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T09:49:25.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649cbaff9d65004e8afe9f2"
+  },
+  "productName": "Realme 12 Pro+ 5G Submarine Blue, 12GB RAM, 256GB Storage",
+  "brandName": "realme",
+  "category": "mobiles",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112247/mernproduct/kybrurmgaw6iwq5iptqk.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112253/mernproduct/etrmxy0y7rvo4qpbhjsk.jpg"
+  ],
+  "description": "☆【RAM, ROM And Expandable】:- 12 GB RAM | 256 GB ROM\n☆【Display】:- 17.02 cm (6.7 inch) Full HD+ Display || 120 Hz Curved Vision OLED display! The swift 16× HyperPrecise Touch ensures lightning-fast & accurate responses, while ProXDR restores HDR's full dynamic range for unparalleled photo viewing. With 2160 Hz PWM dimming & AI brightness adjustment for superior visual comfort, this display is an eye-friendly treat. The sleek 2.32 mm Ultra Narrow Chin, rugged Double-reinforced Glass & HyperVision Mode contribute to an ergonomic & immersive delight.\n☆【Camera】:- 50MP + 8MP + 64MP | 32MP Front Camera || 50MP Primary Camera (f/1.88 Aperture, Sony IMX890, 1/1.56 inch Sensor Size, 1.0um Pixel Size + 8MP Wide Angle Camera (f/2.2 Aperture, Hynix Hi846W, 1/4 inch Sensor Size, 1.12um Pixel Size + 64MP Telescopic Camera (f/2.46 Aperture, OmniVision OV64B40, 1/2 inch Sensor Size, 0.702um Pixel Size. Camera Feature: Photo, Video, Night, Street, Pro || 32MP Front Camera Setup: (f/2.4 Aperture, Sony IMX615, 1/2.74 inch Sensor Size, 0.8um Pixel Size\n☆【Processor】:- Snapdragon 7s Gen 2 Processor || Snapdragon 7s Gen 2 5G Chipset, Powered by the Qualcomm Snapdragon 7s Gen2, the realme 12 Pro+ 5G stands out with the only 4 nm Snapdragon chipset in its segment with 5G compatibility. This smartphone guarantees powerful performance, ensuring the smooth completion of all your tasks. Enjoy lag-free gaming, seamless multitasking, and lightning-fast connectivity with this cutting-edge chipset.",
+  "price": 37999,
+  "sellingPrice": 30939,
+  "createdAt": {
+    "$date": "2024-05-19T09:51:43.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T09:51:43.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649cc28f9d65004e8afe9f6"
+  },
+  "productName": "Oneplus Nord CE4 (Celadon Marble, 8GB RAM, 128GB Storage)",
+  "brandName": "oneplus",
+  "category": "mobiles",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112380/mernproduct/jrqeyauybk68q35vhw3k.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112386/mernproduct/cekyqnmqqj7bol3enaah.jpg"
+  ],
+  "description": "rocessor: The Qualcomm Snapdragon 7 Gen 3 chipset not only gives your Nord CE4 silly levels of OnePlus Fast and Smooth performance, but it also guards your battery life and maximizes power efficiency. What's more? You get to experience blazing download speeds up to 5Gbps deliver unceasing mobile gaming, work-from-anywhere productivity, and more\nDesign: OnePlus Nord CE4 comes in 2 colorways - Celadon Marble, a first for Nord and Dark Chrome, our signature variant. Oh, and it’s mega-durable… This phone’s bezel material is so tough, it’s thinking of taking up cage fighting. Seriously, we dropped it 1.5 meters onto marble, and it survived2. That’s tough as nails!\nBattery & Charging: The most powerful fast charging in Nord history, with 100W SuperVOOC charging and 5500mAh Battery. Handle your low battery woes like a boss with 100W SUPERVOOC fast charging that boosts your phone to 100% power in 30 minutes. Smart Charging 4.0 learns your usage habits to optimize charging and prevent overheating and battery aging. After 10mins charging (from 1%), you get to enjoy · 7.3hrs of video watching (app:YouTube) · 19.7hrs of music listening (app:Spotify) · 10.9hrs of voice calling (app: WhatsApp) · 6.7hrs of social media browsing (app:Instagram) · 3.9hrs of gaming (app:Battlegrounds India)",
+  "price": 24999,
+  "sellingPrice": 21899,
+  "createdAt": {
+    "$date": "2024-05-19T09:53:44.260Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T09:53:44.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649ccdbf9d65004e8afea44"
+  },
+  "productName": "Apple AirPods Pro (2nd Generation) with MagSafe Case (USB‑C) ​​​​​​​(White)",
+  "brandName": "Apple",
+  "category": "airpodes",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112579/mernproduct/iwehqazuypg5ewrlkzrw.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112586/mernproduct/ckoxpzbm6rlcfay949sl.jpg"
+  ],
+  "description": "The speakers inside the EarPods have been engineered to maximise sound output, which means you get high-quality audio.\nThe EarPods (USB-C) also include a built-in remote that lets you adjust the volume, control the playback of music and video, and answer or end calls with a press of the remote.\nDesigned by Apple\nDeeper, richer bass tones\nGreater protection from sweat and water",
+  "price": 24900,
+  "sellingPrice": 19999,
+  "createdAt": {
+    "$date": "2024-05-19T09:56:43.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T09:56:43.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649cd49f9d65004e8afea48"
+  },
+  "productName": "boAt Airdopes 141 Bluetooth Truly Wireless in Ear Earbuds with 42H Playtime,Low Latency Mode for Gaming, ENx Tech, IWP, IPX4 Water Resistance, Smooth Touch Controls(Cyan Cider)",
+  "brandName": "Boat",
+  "category": "airpodes",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112687/mernproduct/aqg2imlwtlbrynt1rpqv.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112692/mernproduct/x4ejgi2hoi1sgvpscas3.jpg"
+  ],
+  "description": "Playback- Enjoy an extended break on weekends with your favourite episodes on stream, virtue of a playback time of up to 42 hours including the 6 hours nonstop playtime for earbuds.\nLow Latency- Our BEAST mode makes Airdopes 141 a partner in entertainment with real-time audio and low latency experience. These tws earbuds are perfect for a gaming experience.\nClear Voice Calls- It dons built-in mic on each tws earbud along with our ENx Environmental Noise Cancellation tech that ensures a smooth delivery of your voice via voice calls\nboAt Signature Sound- Delve into your cherished boAt Immersive auditory time with Airdopes 141",
+  "price": 4490,
+  "sellingPrice": 1299,
+  "createdAt": {
+    "$date": "2024-05-19T09:58:33.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T09:58:33.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649cd9bf9d65004e8afea4c"
+  },
+  "productName": "truke Buds BTG1 True Wireless Earbuds with Environmental Noise Cancellation(ENC) & Quad MEMS Mic for Clear Calls | Up to 48hrs of Playtime | 60ms Low Latency | Bluetooth 5.1 | IPX4",
+  "brandName": "truke",
+  "category": "airpodes",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112767/mernproduct/fahvqin2lnf4coej85cm.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112771/mernproduct/ilzayfkcyhqpx1yvwuha.jpg"
+  ],
+  "description": "[60ms Imperceptible Low Latency] : Enjoy a best Gaming experience with Best in Class low latency of up to 60ms. The Earbuds are customized with Special Tuning Effects to Accurately identify Enemy position and Enhanced Gunshot effects. Tap 3 times of right earpods to enter Gaming Mode.\n[Quad Mic with ENC] : Dual-Mic on each earbud captures external sound and intelligent Environmental Noise Cancellation (ENC) system eliminates Noise, Echo & Wind sound to provide a clear calling experience.\n[True Deep Bass] : 13mm 32Ω Titanium drivers deliver High dynamics, High Sensitivity and High Fidelity providing a Cinematic Sound Experience. Intelligent Equalizer seamlessly adjusts the sound effects to provide clear audio experience while watching a movie or True Deep Bass while listening to your favorite music.",
+  "price": 3499,
+  "sellingPrice": 899,
+  "createdAt": {
+    "$date": "2024-05-19T09:59:55.773Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T09:59:55.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649ce20f9d65004e8afea50"
+  },
+  "productName": "iGear Crystal Wireless Earbuds, Transparent Charging Case and LED Digital Display, Bluetooth Earphones with ENC Noise Cancelling, Touch Control, Google Assistant and Siri Support (Ivory White)",
+  "brandName": "iGear",
+  "category": "airpodes",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112897/mernproduct/x7emc52pdnlg4gwrlsrr.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716112902/mernproduct/hj1qmucyewyqxfwxewt5.jpg"
+  ],
+  "description": "[ENC Noise Cancelling & HiFi Stereo Sound]: The iGear Crystal features ENC noise reduction and a sophisticated algorithm for better call quality. Enjoy immersive HiFi stereo sound with an expansive sound field and powerful bass.\n[LED Digital Display & Colourful Design] Stay informed with the precise LED display showing the power status of both earbuds and charging case. Enjoy the futuristic transparent design in 4 colours. These splash-resistant earbuds safeguard against sweat for worry-free use.\n[Smart Touch Control & Comfortable Fits]: These earbuds feature touch controls on each bud for easy call handling, playback control, and volume adjustment. Crystal earbuds include three ear tip sizes, ensuring a comfortable fit. The silicone case complements the headphones, enhancing your overall experience.\n[Advanced Bluetooth Chip & Auto Quick Pairing]: The iGear Crystal noise-cancelling wireless earbuds feature a powerful Bluetooth chip for stable signals and crystal-clear sound. These earphones offer seamless auto connection connecting instantly when the earbuds are removed from the charging case.\n[Fast Charging & Long Battery Life]: fast charging with these earbuds. Just 10 minutes of charging gives you 3.5 hours of use. With a full charge, enjoy four hours of playback and up to 30 hours with the portable charging case for uninterrupted music enjoyment on the go",
+  "price": 3000,
+  "sellingPrice": 1226,
+  "createdAt": {
+    "$date": "2024-05-19T10:02:08.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:02:08.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649cf3df9d65004e8afeaa0"
+  },
+  "productName": "Hair Wax Cream For Men | Easy To Spread And Strong Hold For 12hrs + Anti - Dandruff | 50 gm wax cream ",
+  "brandName": "True hair&wax",
+  "category": "personal care",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113181/mernproduct/aibcbxywzqoinj751caa.webp",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113186/mernproduct/yuhmjxdg2tna39jqeuce.webp"
+  ],
+  "description": "Tru Hair & Skin’s Reshapeable Strong Hold Hair Wax Cream is enriched with Argan Oil, Macadamia Nuts, and Shea Butter. This nourishing formula provides a long-lasting hold while keeping your hair healthy. It’s perfect for creating various styles throughout the day without damaging your hair.",
+  "price": 249,
+  "sellingPrice": 99,
+  "createdAt": {
+    "$date": "2024-05-19T10:06:53.769Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:06:53.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649cfb1f9d65004e8afeaa4"
+  },
+  "productName": "Mancode Hydro Body Wash For Men 450ml | 3 in 1 Active Body Wash For Body, Face and Hair with Refreshing Menthol and Natural Oils Extract | Oil Control | Shower Gel For Men (Pack Of 1)",
+  "brandName": "Mancode",
+  "category": "personal care",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113293/mernproduct/bvjtwxvo1qjhkjgiddqt.webp",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113299/mernproduct/ynz5thkjvep0m1kv8jgc.jpg"
+  ],
+  "description": "GOODNESS OF NATURAL Oils: Mancode Body Wash is crafted to nourish and rejuvenate refreshing skin. Made with natural oils, this body wash is enriched with the goodness of Natural oils well known for their moisturizing and soothing properties. Shower Gel helps to hydrate the skin and provides nourishment.\nSkin Nourishement : Besides cleansing your skin, the body wash also hydrates with premium essential oils to prevent it from drying while it is being cleansed.\nLight on Skin : Mancode body wash for bath is free from parabens, synthetic preservatives commonly used in cosmetic and personal care products. The absence of parabens in shower gel makes it a safer choice for people.",
+  "price": 499,
+  "sellingPrice": 196,
+  "createdAt": {
+    "$date": "2024-05-19T10:08:49.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:08:49.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d02af9d65004e8afeaa8"
+  },
+  "productName": "AGARO Royal Multi Grooming Kit, 9 Pieces Multi Grooming Kit For Men, Hair Clippers, Beard Trimmer, Shaver, For Body, Face, Nose and Ear Hair Trimmer, Precision Trimmer, Face Styler",
+  "brandName": "AGARO",
+  "category": "personal care",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113429/mernproduct/q3z8nzi8s4vh2u09slsy.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113434/mernproduct/dlry8s331q6qfnii0nfm.jpg"
+  ],
+  "description": "All-in-one beard trimmer kit is designed for precision trimming. It also comes with 6 hair trimmer combs that allow you to control the length and style of your beard, body, face, nose, ear, eyebrows, sideburns, neck.\nIt is designed to be fully washable, making it easy to clean after use. The blades are also detachable and can be cleaned with the brush included in the kit\nThe built-in rechargeable lithium-ion battery provides up to 120 minutes of run time per charge, and it only takes about 2 hours to fully charge. The cordless design makes it easy to use anywhere and is perfect for travel.\nThe stainless steel blades are self-sharpening and have a precision gap for close trimming. They are also non-corrosive, preventing rust and skin irritation",
+  "price": 3399,
+  "sellingPrice": 2885,
+  "createdAt": {
+    "$date": "2024-05-19T10:10:50.962Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:10:50.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d095f9d65004e8afeaac"
+  },
+  "productName": "Garnier Men Acno Fight Anti Pimple Face Wash, Anti Pimple Face Wash with Salicylic Acid and Herba Repair, Suitable for all Skin Types, 150g",
+  "brandName": "Garnier",
+  "category": "personal care",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113541/mernproduct/f5azfmnpe5qhdayhgmzy.webp",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113547/mernproduct/r4jp3nxbdjt4h3vob1ft.jpg"
+  ],
+  "description": "Face wash for men with excessive pimples - suitable for all skin types, including sensitive skin\nCombats germs that cause pimples and soothes skin that used to have pimples - gives you healthier and soothed skin\nHow To Use: Apply on wet face with gentle movements, avoiding the eye contour, and then rinse with lukewarm water. Use twice a day for best results\nEnriched with natural ingredients such as salicylic acids, Herba Repair, etc\nContents: 1x Garnier Men Acno Fight Facewash, Volume: 150 g",
+  "price": 379,
+  "sellingPrice": 310,
+  "createdAt": {
+    "$date": "2024-05-19T10:12:37.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:12:37.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d199f9d65004e8afead3"
+  },
+  "productName": "LEGO Star Wars Tantive IV Building Set 75376 (654 Pieces)",
+  "brandName": "LEGO",
+  "category": "toys",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113796/mernproduct/vibyt2p5tqpxgkk1knqo.webp",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113801/mernproduct/vmo2sgeu64teyvajyfwe.jpg"
+  ],
+  "description": "Collectible Tantive IV build-and-display model – Recreate the excitement of the opening scene of Star Wars: A New Hope as you build this mid-scale LEGO brick version of an iconic starship\nAuthentically detailed Star Wars vehicle – Use LEGO bricks to capture iconic features of the Tantive IV, as seen in Star Wars: A New Hope, including its 11 engines and turbolasers\nMade for display – The buildable stand has a nameplate and LEGO Star Wars 25th anniversary brick, and it’s designed to display the Tantive IV\nPart of the LEGO Star Wars Starship Collection – This set is part of a collectible series featuring mid-scale buildable models of iconic Star Wars starships\nGift for Star Wars fans and memorabilia collectors – Treat yourself or give this 654-piece adults’ LEGO building set as a birthday gift to a friend who loves Star Wars",
+  "price": 9499,
+  "sellingPrice": 8299,
+  "createdAt": {
+    "$date": "2024-05-19T10:16:57.573Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:16:57.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d1e6f9d65004e8afead7"
+  },
+  "productName": "LEGO Audi Rs Q E-Tron (914 Pieces),Multicolor",
+  "brandName": "LEGO",
+  "category": "toys",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113877/mernproduct/skbvac8u56ahday0z3lq.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113882/mernproduct/bee4y7r6idy672zptftx.jpg"
+  ],
+  "description": "Build an ’electric’ rally car – Kids aged 10+ who love rally cars can explore new engineering skills as they build a LEGO Technic model version of the Audi RS Q e-tron 2022 Dakar rally car\nRemote-controlled functions – Kids will love putting their remote-controlled rally car to the test using the CONTROL+ app to drive forwards and backwards and steer the car\nFaithful details – This set incorporates many features from the real Audi RS Q e-tron rally car, including a new Technic wheel element created especially for this model\n4-wheel suspension – Just like the real car, this model version features independent suspension on each of the 4 wheels\nA gift for kids aged 10+ – This LEGO Technic Audi RS Q e-tron (42160) model kit makes a gift idea for car lovers and Audi fans",
+  "price": 18999,
+  "sellingPrice": 16599,
+  "createdAt": {
+    "$date": "2024-05-19T10:18:14.525Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:18:14.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d24bf9d65004e8afeadb"
+  },
+  "productName": "Skillmatics India Map Puzzle - 70 Pieces, Educational Toy For Learning 300+ Facts About India, Gifts For Ages 6 To 12, Kid",
+  "brandName": "Skillmatics",
+  "category": "toys",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113977/mernproduct/p4aupzm2w6eoqklwozte.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716113982/mernproduct/bxqvu1foos9uzspts7tf.jpg"
+  ],
+  "description": "EDUCATIONAL INDIA MAP PUZZLE: Embark on an educational journey with our 70-piece India map puzzle! Discover India's states and union territories, their capitals, and uncover over 300 fun facts with the included 28 state and 8 union territory cards.\nINCLUDES: 70 Puzzle Pieces, 28 State Cards, 8 Union Territory Cards, Instruction Manual\nASSEMBLE & LEARN: Spread out the puzzle pieces on a flat surface and let your child assemble the puzzle. Once completed, use the cards to learn all about states, union territories and their capitals!\nCOLOUR-CODED FOR EASY LEARNING: The color-coded map and cards make it simple for children to locate and learn about India's states and union territories.\n300+ FUN FACTS: Enjoy an entertaining and educational experience with fun facts about states, union territories, landmarks, and cultural and historical information.\nSTURDY AND PERFECTLY SIZED: This plastic-free puzzle measures 39 x 34 cm and features sturdy pieces that are easy for children to hold and assemble independently.",
+  "price": 699,
+  "sellingPrice": 629,
+  "createdAt": {
+    "$date": "2024-05-19T10:19:55.851Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:19:55.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d2e0f9d65004e8afeadf"
+  },
+  "productName": "Gooyo GY3716 Mini Portable Piano Keyboard Musical Toy for Kids/Babies/Girls/Boys/Gifts | Red Color, Power Source: 2xAA Battery (Not Included)",
+  "brandName": "Gooya",
+  "category": "toys",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114097/mernproduct/nvtmpujjjkx6efylf9h6.jpg"
+  ],
+  "description": "INTEGRATED LEARNING SYSTEM: Our versatile keyboard piano provides a traditional piano feel, making it an ideal choice for budding musicians of all ages. It's designed for small fingers, perfect for toddlers learning music and developing their musical talents. This keyboard not only provides an acoustic experience but also improves kids' hand flexibility.\nEXPERIENCE ENLIGHTENING EDUCATION: Music mode lets kids play the piano like a regular keyboard, fostering motor skills and creativity through instrument exploration. This toy enhances hand-eye coordination, musical theory, and fine motor skills, offering comprehensive learning opportunities.\n22-KEY PIANO WITH MICROPHONE: With 22 keys, dual play mode and an included microphone, this piano lets kids not only play but also sing along. It's a fantastic tool to develop their performance skills and boost confidence. By combining singing, piano play, and happy music, it fosters an optimistic attitude in children, making it an all-in-one tool for musical and personal growth.",
+  "price": 399,
+  "sellingPrice": 190,
+  "createdAt": {
+    "$date": "2024-05-19T10:22:24.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:22:24.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d3a3f9d65004e8afeaf5"
+  },
+  "productName": "Kapiva TestoFuel Shilajit Whey Protein with Digezyme| 25g Protein | 5.5g BCAA | Faster Absorption | Boosts Stamina | Chocolate Flavor, 1Kg/ 2.2lb",
+  "brandName": "Kapiva",
+  "category": "protein",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114308/mernproduct/dgm8vjh6l3bcudewlw7v.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114312/mernproduct/ol8dhfsb6ggbmytsurzs.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114318/mernproduct/aknvjt0pbgahxqs441gu.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114323/mernproduct/dxltihxybm825djteacz.jpg"
+  ],
+  "description": "Helps with faster absorption & better digestion\nIncreases strength and improves athletic performance\nSupports post-workout recovery and muscle repair for faster results\nContains a unique blend of 100% Whey Protein and powerful herbs like pure Shilajit for muscle building",
+  "price": 3499,
+  "sellingPrice": 2700,
+  "createdAt": {
+    "$date": "2024-05-19T10:25:39.256Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:25:39.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d421f9d65004e8afeaf9"
+  },
+  "productName": "MuscleBlaze Biozyme Performance Whey Protein | Clinically Tested 50% Higher Protein Absorption | Informed Choice UK, Labdoor USA Certified & US Patent Filed EAF® (Chocolate Hazelnut, 1 kg / 2.2 lb)",
+  "brandName": "MuscleBlaze",
+  "category": "protein",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114432/mernproduct/dxahbfr5rdurczbipsau.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114437/mernproduct/itxovschbvudhldrdu5v.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114443/mernproduct/pgwakjzuan8ourd3vnuu.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114452/mernproduct/y2r1twtqfcknwlnmkpnv.jpg"
+  ],
+  "description": "WINNER, PRODUCT OF THE YEAR, SPORTS NUTRITION: MuscleBlaze Biozyme Whey Protein won product of the year in the sports nutrition category at the NutraIngredients Award 2021 in Singapore. Testimony of the research, quality & innovation behind the Biozyme series\nINFORMED CHOICE, UK, LABDOOR, USA & TRUSTIFIED- TESTED & CERTIFIED: MuscleBlaze Biozyme Whey Protein has been regularly & rigorously tested, certified by Informed Choice Program U.K., Labdoor USA, Trustified for Accuracy of label Claims (Protein content, no amino spiking) & Purity (free from heavy metals or biological contaminants)\nENHANCED ABSORPTION FORMULA (EAF): MB Biozyme Performance Whey Protein ensures 50% higher protein absorption & 60% superior BCAA absorption compared to other whey protein supplements. This proprietary formulation of MB is international patent-applied & lowers any possible protein digestion issues",
+  "price": 2970,
+  "sellingPrice": 2399,
+  "createdAt": {
+    "$date": "2024-05-19T10:27:45.223Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:27:45.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d4c1f9d65004e8afeafd"
+  },
+  "productName": "Optimum Nutrition (ON) Gold Standard 100% Whey (2 lbs/907 g) (Double Rich Chocolate) Protein Powder for Muscle Support & Recovery, Vegetarian - Primary Source Whey Isolate",
+  "brandName": "Optimum Nutrition ",
+  "category": "protein",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114556/mernproduct/v5l1nmuyic51cqejzihl.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114570/mernproduct/qed1uc0g6jpopqhc6nvm.jpg"
+  ],
+  "description": "Gold Standard 100% Whey Blend – 24g blended protein consisting of whey protein isolate, whey protein concentrate, and whey peptides to support lean muscle mass – they don't call it the Gold Standard of standard for nothing\nWhat Does It Have - 5 grams of naturally occurring BCAAs and over 4 grams of glutamine and glutamic acid in each serving ‚which helps to build lean and strong muscles; Gluten Free\nWhen To Use - Great before or after exercise, between meals, with a meal, or any time of day where you need extra protein in your nutrition",
+  "price": 3899,
+  "sellingPrice": 3099,
+  "createdAt": {
+    "$date": "2024-05-19T10:30:25.360Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:30:25.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6649d51ef9d65004e8afeb01"
+  },
+  "productName": "Bigmuscles Nutrition Premium Gold Whey [1Kg] | Informed Choice UK Certified | Isolate Whey Protein Blend | 25g Protein | 11g EAA | ProHydrolase Enzyme Technology [Belgian Chocolate]",
+  "brandName": "Bigmuscles Nutrition",
+  "category": "protein",
+  "productImage": [
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114676/mernproduct/tp3gfbaizxma0po7pcdv.jpg",
+    "http://res.cloudinary.com/ddwo8iuhl/image/upload/v1716114682/mernproduct/lhev3rt6q55dcpwchtnp.jpg"
+  ],
+  "description": "POWERFUL FORMULATION: Advanced formulation combines two hard-hitting types of protein in one powerful blend i.e. ultra filtered Whey Protein Isolate and Whey Protein Concentrate Sourced from USA\nADVANCED CONFIG: It delivers 25g Protein, 5.5g Branched Amino Acids(BCAA), 4g Glutamic Acid and ZERO Sugar Per Serving\nPERFORMANCE BLEND: Ultimate Blend for Core Bodybuilders, Athletes, Fitness Professionals and Enthusiasts promoting muscle growth, counteracts muscle breakdown, and supports your workout recovery",
+  "price": 2625,
+  "sellingPrice": 1671,
+  "createdAt": {
+    "$date": "2024-05-19T10:31:58.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-19T10:31:58.017Z"
+  },
+  "__v": 0
+}]
